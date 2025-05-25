@@ -26,10 +26,3 @@ exports.GOOGLE_API_KEY = ''; // Your youtube/google API key here
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-
-## Author
-
-**Music-Bot** © [iCrawl](https://github.com/iCrawl), Released under the [MIT](https://github.com/iCrawl/Music-Bot/blob/master/LICENSE) License.<br>
-Authored and maintained by iCrawl.
-
-> GitHub [@iCrawl](https://github.com/iCrawl) · Twitter [@iCrawlToGo](https://twitter.com/iCrawlToGo)
